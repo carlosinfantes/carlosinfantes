@@ -32,6 +32,10 @@ A vendor-neutral specification (DRF/CRF) for capturing the 'why' behind decision
 
 ## Selected Projects
 
+### [CloudSecure](https://github.com/carlosinfantes/cloudsecure)
+AI-powered AWS security assessment platform. 7 parallel analyzers scan any AWS account via cross-account role delegation — agentless, serverless, no credentials shared. Bedrock Claude synthesizes findings into prioritized, actionable reports. Maps to CIS, NIST, ISO 27001, SOC2.
+`Python` `CDK` `Step Functions` `Bedrock`
+
 ### [CIO — Chief Intelligence Officer](https://github.com/carlosinfantes/cio)
 AI-powered advisory boards that debate your decisions from multiple expert perspectives. CLI-first with interactive REPL, API-ready with SSE streaming, and a plugin system spanning 13 domains from startups to security.
 `Go` `TypeScript` `React`
